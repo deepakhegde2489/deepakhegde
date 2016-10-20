@@ -1,0 +1,61 @@
+.navbar-default {
+    background-color: black;
+    border-color: black;
+}
+
+
+body {
+    background-image: url("images/black_background.jpg");
+    background-color: black;
+}
+
+
+a {
+
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    text-align: center;
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.5);
+     text-align: center;
+    background: black;
+    color: white;
+    padding: 8px 12px;
+    text-decoration: none;
+
+} 
+
+
+
+
+
+
+
+
+
+
+
+#images{
+    text-align:center;
+    margin:30px auto; 
+    background: transparent;
+}
+#images a{
+
+    margin:10px 20px;
+    display:inline-block;
+    text-decoration:none;
+    color:white;
+    background: transparent;
+ }
+
+
+
+
+
+
+
+
+
+
+
